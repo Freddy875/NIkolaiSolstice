@@ -20,5 +20,19 @@ Además, nuestra aplicación es fácil de usar y está diseñada pensando en la 
 
 - Diseñadores graficos: Los diseñadores gráficos a menudo trabajan con imágenes digitales, y necesitan identificar colores específico para sus diseños. Esta aplicación puede ser una herramienta útil para que extraigan rápidamente información de color de las imágenes, y las utilicen en sus proyectos. 
 
+- Artistas y fotógrafos: Pueden utilizar esta aplicación para analizar los colores de sus propias obras de arte o fotografías respectivamente. Puede ayudarlos a comprender la paleta de colores que han utilizado y porporcionado información para futuras creaciones.
+
+- Entusistas de la decoración del hogar y el bricolaje: Pueden utilizar esta aplicación para identificar los colores de su entonro o las imágenes de inspiración. Puede ayudarlos a seleccionar colores de puntura, muebles o artículos que coicidan con el esquema de color deseado.
+
+- Individuos daltónicos: Esta aplicación puede ser beneficiosa para las personas daltónicas que luchan por diferenciar entre colores. Pueden proporcionarles nombres de colores precisos y valores hexadecimales, ayudándolos a navegar por el mundo de los colores de manera más efectiva.
+
+- Educación y aprendizaje: Esta aplicación se puede utilizar en entornos educativos a los estudiantes sobre los colores, sus nombres y sus valores hexadecimales. Se puede incorporar en clases de arte, cursos de diseño o incluso como una herramienta para que los estudiantes con discapacidades visuales entiendan los colores.
+
+- Redes sociales ,influencers y creadores de contenido: Pueden utilizar esta aplicación para identificar y replicar colores especificos, que encuentran en las plataformas de redes sociales. Pueden ayudarlos a mantener un tema de color constante en sus publicaciones y mejorar el atrativo visual de su contenido.
+
+- Accesibilidad y diseño web: Pueden utilizar esta aplicación para garantizar la accesibilidad en sus diseños. Pueden ayudarlos a identificar y verificar combinaciones de colorés, asegurando que los colores utilizados cumplan con los estandares de accesibilidad para personas con discapacidades visuales. 
+
+- Psicología del color y marketing: Pueden beneficiarse de esta aplicación al analizar los colores utilizados en los anuncios, la marca o el empaque del producto. Puede proporcionarles información valiosa sobre el impacto emocional y la eficacia de las diferentes opciones de color. 
+
 
 
