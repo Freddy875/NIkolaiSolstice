@@ -34,5 +34,17 @@ Además, nuestra aplicación es fácil de usar y está diseñada pensando en la 
 
 - Psicología del color y marketing: Pueden beneficiarse de esta aplicación al analizar los colores utilizados en los anuncios, la marca o el empaque del producto. Puede proporcionarles información valiosa sobre el impacto emocional y la eficacia de las diferentes opciones de color. 
 
+---
+
+## Descripción detallada
+
+- ColorPalette: Una aplicación móvil que permite a los diseñadores gráficos capturar imágenes y generar instantáneamente una paleta de colores completa. La aplicación identifica cada color en la imagen, proporcionado su nombre y valor hexadecimal, lo que permite a los diseñadores incorporar fácilmente los tonos exactos que desean en sus proyectos. 
+
+---
+
+## Monetización 
+
+- Versión Premium: Los diseñadores gráficos pueden pagar una tarifa única para desbloquear características y funcionalidades avanzadas de la aplicación. 
+
 
 
